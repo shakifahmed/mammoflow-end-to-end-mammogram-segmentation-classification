@@ -6,7 +6,7 @@ model/*
 segmentation/*
 test/*
 .cursor-server
-idea/*
+.idea/*
 .vscode-server
 .vscode/*
 .wget-hsts
