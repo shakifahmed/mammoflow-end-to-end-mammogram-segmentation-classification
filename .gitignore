@@ -1,0 +1,14 @@
+.keras
+.lightning_studio
+augmentation/*
+images/*
+model/*
+segmentation/*
+test/*
+.cursor-server
+idea/*
+.vscode-server
+.vscode/*
+.wget-hsts
+.windsurf-server
+__pycache__/
